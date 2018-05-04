@@ -1,0 +1,65 @@
+body {
+    background-color: #F5F5DC;
+}
+head {
+    background-color: #D2B48C;
+}
+header  {
+	background-color: #E6D6A9;
+ }
+footer  {
+	background-color: #D2B48C;
+	text-align: center
+ }
+
+
+h1 {
+	background-color:  #E6D6A9;
+
+    font-family: Times New Roman;
+   
+}
+h2 {
+
+    font-family: Times New Roman;
+   
+}
+h3 {
+	background-color:  #E6D6A9;
+
+    font-family: Times New Roman;
+   
+}
+#clockdiv  {
+	font-family: sans-serif;
+	color: #fff;
+	display: inline-clock ;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+#clockdiv > div {
+	padding: 10px;
+	border-radius: 3px;
+	background: #566573;
+	display: inline-block;
+
+ }
+#clockdiv  {
+	padding: 15px;
+	border-radius: 3px;
+	background: #212F3D;
+	display: inline-block;
+}
+.smalltext {
+padding-top: 5px;
+font-size: 16px;
+}
+header  {
+	background-color: #E6D6A9;
+ }
+footer  {
+	background-color: #D2B48C;
+	text-align: center
+ }
+
